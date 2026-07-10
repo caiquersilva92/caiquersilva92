@@ -1,17 +1,20 @@
 <h1 align="justify">Olá 👋, sou Caique Rodrigues da Silva</h1>
-  Com anos de experiência em diversos cargos, adquiri habilidades sólidas em áreas como Pesquisa e Desenvolvimento (P&D) e Planejamento e Controle de Produção (PCP). Como Supervisor de P&D, lidero equipes, desenvolvo produtos e aprimoro processos, além de gerenciar projetos. Já como Supervisor de PCP, fui responsável pelo planejamento de produção e análise de dados. Como Analista de PCP, controlei a produção e realizei programação de produção, sempre buscando aprimorar a eficiência e a qualidade. Além da minha experiência profissional, possuo uma sólida formação acadêmica. Sou Tecnólogo em Mecatrônica Industrial, onde desenvolvi um projeto inovador sobre Controle da Plataforma de Stewart Gough com auxílio de Visão Computacional. Esse projeto me permitiu aplicar conhecimentos em mecatrônica para criar soluções avançadas de controle e automação. Atualmente, estou no último semestre do Bacharelado em Ciência de Dados, uma área que desperta minha paixão pela análise de dados e descoberta de insights. Durante minha graduação, desenvolvi projetos de Machine Learning para análise de dados de e-commerce e construí uma plataforma para localização de Pets perdidos, utilizando técnicas de processamento de dados e geolocalização. Além das competências adquiridas em minha experiência profissional, também possuo proficiência em ferramentas e tecnologias relevantes, como Microsoft Project, Grafana, Microsoft Power BI, Microsoft Excel, Autodesk Inventor e AutoCAD. Essas habilidades me permitem enfrentar desafios em diferentes áreas, utilizar as ferramentas adequadas e obter resultados eficazes. Minha trajetória profissional demonstra minha capacidade de adaptação, aprendizado contínuo e aplicação criativa de conhecimentos em diferentes contextos. Estou preparado para contribuir de forma significativa em áreas relacionadas à ciência de dados, desenvolvimento de produtos, melhoria de processos e gestão de projetos, impulsionando o sucesso das organizações em que atuo.
+  Sou Arquiteto de Soluções e Engenheiro de Dados & IA focado em traduzir desafios complexos de negócio em ecossistemas digitais escaláveis, eficientes e altamente orientados a dados. Minha trajetória une a visão macro da governança corporativa e gestão de PMO à execução técnica profunda de infraestrutura, dados e inteligência artificial aplicada.  
+Com formação dupla em Tecnologia da Informação e Ciência de Dados, além de base em Mecatrônica Industrial, atuo desde a concepção e modelagem C4 até a sustentação de ambientes de alta disponibilidade, sempre priorizando soluções de excelente custo-benefício e impacto real no negócio.  
+Atualmente, lidero o time de TI e a arquitetura de dados na Zanardo Válvulas Industriais, pilotando a transformação digital de ponta a ponta.  
 
-- 🔭 Atualmente estou trabalhando em **Criação e Analise de base de dados de animais abandonados**
+O que faço e entrego:
+- Arquitetura de Sistemas & ERPs: Gestão, customização e integração profunda de ERPs corporativos (TOTVS Protheus e Odoo), CRMs e plataformas legadas via APIs/REST. 
+- Engenharia de Dados & BI: Estruturação de arquiteturas Data Lakehouse e pipelines de ETL/ELT para unificação de bases heterogêneas, além de telemetria e dashboards gerenciais avançados (Grafana, Power BI, Looker Studio, Apache Superset).  
+- AI Engineering & Automações: Desenvolvimento e implantação de Inteligência Artificial corporativa prática. Crio sistemas de busca semântica RAG (bases de conhecimento internas) e Agentes Inteligentes corporativos acoplados aos fluxos de negócios utilizando n8n, Langflow, Supabase e Ollama. 
+- Infraestrutura & DevOps: Administração de ambientes conteinerizados escaláveis em Docker e Docker Swarm, virtualização com Proxmox, servidores Linux e esteiras de CI/CD.  
 
-- 🌱 Atualmente estou aprendendo **Machine Learning, Deep Learning, Big Data e Inteligência Artificial**
+Destaques de Impacto:
+- Concepção e entrega de IA corporativa com arquitetura RAG e agentes automatizados para otimização de custos.
+- Projetos de redução de custos empresariais e migração de fluxos manuais para processos digitais integrados nativamente ao ERP. 
+- Implementação de sistema MES integrado ao Protheus e automação de capacidade produtiva (PCP/Manufatura).  
 
-- 👯 Estou procurando colaborar **Com analises e aplicação de técnicas de Ciência de Dados para alavancar as empresas.**
-
-- 🤝 Estou procurando parcerias com **Empresas dispostas a inovar em Dados!**
-
-- 📝 Eu escreve artigos no site [https://medium.com/@caiquesdados](https://medium.com/@caiquesdados)
-
-- 💬 Me pergunte sobre **Excel, Google Sheets, Looker Studio, Grafana, Power BI., SQL e Python**
+Minha atuação é guiada por uma visão clara: transformar problemas de negócio em soluções digitais inteligentes, escaláveis e sustentáveis, unindo dados, IA, automação e plataformas Open Source para gerar impacto real e valor de mercado.
 
 - 📫 Você me encontra por aqui **caiquesdados@gmail.com**
 
